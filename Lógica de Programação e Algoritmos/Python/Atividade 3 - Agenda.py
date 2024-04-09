@@ -1,0 +1,12 @@
+from click import clear
+n1 = str(input("Digite o nome: "))
+n2 = str(input("Digite o idade: "))
+n3 = str(input("Digite o email: "))
+n4 = str(input("Digite a data de nascimento: "))
+n5 = str(input("Digite o telefone: "))
+clear()
+print("Nome digitado foi: ", n1)
+print("Idade digitado foi: ", n2)
+print("Email: ", n3)
+print("Data de nascimento: ", n4)
+print("Telefone: ", n5)

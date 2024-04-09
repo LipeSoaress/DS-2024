@@ -1,0 +1,2 @@
+pão de queijo, 10.0, 25, muito bom o pão de queijo
+Nome: pão de forma, Valor: 12.0, Quantidade: 2, Descrição: pacote de pão
